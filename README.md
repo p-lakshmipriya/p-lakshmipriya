@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p-lakshmipriya" alt="p-lakshmipriya" /></a> </p>
-<br>Im recently completed Bca degree at Bhaktavatsalam Memorial College For Women.
+<br> 🌱Graduated Bca degree at Bhaktavatsalam Memorial College For Women.
 <br>- 🌱 Successfully Completed **Web designing course at Itvedant Institute**.<br>- 🔭 I’m completed project **Heliography Studio**
 <br> - 🔭 I’m completed project **Indelible**
 
