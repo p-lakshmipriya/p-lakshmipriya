@@ -1,16 +1,16 @@
 
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Lakshmi Priya</h1>
-<h3 align="center">A passionate frontend web developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p-lakshmipriya&label=Profile%20views&color=0e75b6&style=flat" alt="p-lakshmipriya" /> </p>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=p-lakshmipriya" alt="p-lakshmipriya" /></a> </p>
 <br>-🌱Graduated Bca degree at Bhaktavatsalam Memorial College For Women.
-<br>-🌱Successfully Completed **Web Designing Course at Itvedant Institute**.
+<br>-🌱Successfully Completed **Web Development Course at Itvedant Institute**.
 <br>-🔭I’m completed project **Heliography Studio**
 <br>-🔭I’m completed project **Indelible**
-
+<br>-🔭I’m  Recently completed project **Image Gallery Project**
 
 
 
