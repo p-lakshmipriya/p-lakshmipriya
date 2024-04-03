@@ -11,7 +11,6 @@
 
 - 🔭 I’m completed project **Image Gallery**
 
-- 📄 Portfolio [https://p-lakshmipriya.github.io/Lakshmi-priya-Portfolio/](https://p-lakshmipriya.github.io/Lakshmi-priya-Portfolio/)
 
 - 📄 Proffesstional Course **Full Stack Web Development Using Python**
 
